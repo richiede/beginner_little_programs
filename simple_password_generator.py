@@ -1,5 +1,5 @@
 # This is a simple password generator that takes the user's favourite colour, 
-# they first pet's name and combines then with a random number between 10 - 99
+# their first pet's name and combines them with a random number between 10 - 99
 # and then adds an '!' at the end.
 
 import random
